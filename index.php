@@ -24,6 +24,8 @@ include 'incluides/header.php';
         echo "<h1> my name is: $name  </h1>";
         
    
+    echo "zora tqm";
+         
 ?>
      <button type="button" class="btn btn-dark">CLICK ME</button>
      <button type="button" class="btn btn-primary">CLICK ME</button>
